@@ -1,0 +1,25 @@
+{
+  "name": "monsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/public/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superginrai/monsters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superginrai/monsters/issues"
+  },
+  "homepage": "https://github.com/superginrai/monsters#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1"
+  }
+}
